@@ -81,7 +81,10 @@ Here is some sample data:
   ]
 ```
 
+Deploy to [Netlify](https://www.netlify.com) or [Surge](https://surge.sh).
+
 **Pull Request when done.**
+> Include your deployment link in your Pull Request
 
 **Tips**
 
@@ -89,3 +92,9 @@ Here is some sample data:
 - Create a ProductDetail component that shows a specific product.
 
 Your app should look like this when done: https://products-react.surge.sh
+
+**Resources**
+
+If you're stuck on react: https://scrimba.com/course/glearnreact
+If you're not 100% on flexbox: https://www.youtube.com/watch?v=hwbqquXww-U&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd
+If you got stuck on building search: https://scrimba.com/course/greactmovie
