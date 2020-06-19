@@ -95,6 +95,6 @@ Your app should look like this when done: https://products-react.surge.sh
 
 **Resources**
 
-If you're stuck on react: https://scrimba.com/course/glearnreact
-If you're not 100% on flexbox: https://www.youtube.com/watch?v=hwbqquXww-U&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd
-If you got stuck on building search: https://scrimba.com/course/greactmovie
+- If you're stuck on react: https://scrimba.com/course/glearnreact
+- If you're not 100% on flexbox: https://www.youtube.com/watch?v=hwbqquXww-U&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd
+- If you got stuck on building search: https://scrimba.com/course/greactmovie
