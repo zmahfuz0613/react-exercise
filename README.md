@@ -12,7 +12,7 @@ Sorting is **bonus**.
 
 ##
 
-Here is the api: https://products-api-01.herokuapp.com/api
+Here is the api: https://products-api-01.herokuapp.com/api/products
 
 Deploy to [Netlify](https://www.netlify.com) or [Surge](https://surge.sh).
 
