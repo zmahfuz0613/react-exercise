@@ -36,4 +36,4 @@ Your app should look like this when done: https://products-react.surge.sh
 
 - If you're stuck on react: https://scrimba.com/course/glearnreact
 - If you're not 100% on flexbox: https://youtu.be/hwbqquXww-U
-- If you got stuck on building search: https://scrimba.com/course/greactmovie
+- If you got stuck on building search (use filter): [filter with react](https://www.google.com/search?q=react+search+filter&oq=react+search)
