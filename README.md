@@ -3,6 +3,7 @@
 # Products App
 
 Fork this repo.
+Clone it down to your machine.
 
 ```
 cd react-exercise
