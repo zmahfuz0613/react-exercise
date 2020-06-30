@@ -4,6 +4,11 @@
 
 Fork this repo.
 
+```
+cd react-exercise
+npx create-react-app .
+```
+
 Build this:
 
 ![](https://git.generalassemb.ly/bruno/assets/blob/master/products-react.gif)
