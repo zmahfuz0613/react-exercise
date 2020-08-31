@@ -1,0 +1,28 @@
+.product-detail-container{
+    padding: 100px 50px 50px 50px;
+}
+.product-detail-name {
+    font-size: 64px;
+    letter-spacing: 1px;
+    padding: 5px;
+}
+
+.product-detail-price {
+    font-size: 28px;
+    padding: 10px;
+}
+
+.product-detail-description {
+    padding: 10px;
+    letter-spacing: .9px;
+}
+
+@media (max-width: 1024px){
+    .product-detail-name {
+        font-size: 32px;
+    }
+    .product-detail-price{
+        font-size: 24px;
+        padding: 10px;
+    }
+}
